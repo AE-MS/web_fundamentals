@@ -19,5 +19,8 @@
   "homepage": "https://github.com/AE-MS/web_fundamentals#readme",
   "dependencies": {
     "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.2"
   }
 }
